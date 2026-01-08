@@ -1,6 +1,8 @@
 please install the following pip plugs into pycharm:
+
 Pandas
-matplot
+
+matplotlib
 
 
 
